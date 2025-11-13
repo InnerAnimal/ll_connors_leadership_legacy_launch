@@ -14,6 +14,7 @@ export default function Navigation() {
     { href: '/coaching', label: 'Coaching' },
     { href: '/portfolio', label: 'Portfolio' },
     { href: '/community', label: 'Community' },
+    { href: '/dashboard', label: 'Dashboard' },
     { href: '/contact', label: 'Contact' },
   ]
 

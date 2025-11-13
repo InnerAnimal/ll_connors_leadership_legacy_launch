@@ -39,6 +39,7 @@ export default function RootLayout({
                 <ul>
                   <li><a href="/contact">Contact</a></li>
                   <li><a href="/portfolio">Portfolio</a></li>
+                  <li><a href="/dashboard">Dashboard</a></li>
                 </ul>
               </div>
             </div>
